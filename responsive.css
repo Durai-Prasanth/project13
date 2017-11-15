@@ -1,0 +1,109 @@
+@media only screen and  (max-width:1467px) and (min-width:1178px) 
+{
+    .article1-1, .article1-2, .article1-3, .article1-4
+  {
+    width: 22%;
+  }  
+}
+@media only screen and  (max-width:1500px) and (min-width:320px)
+{
+    aside
+    {
+        width: 60px;
+    }
+    .fa1
+    {
+        font-size: 35px !important;
+        position: relative;
+        right: 27px;
+    }
+    .fa2
+    {
+        font-size: 32px !important;
+        position: relative;
+        right: 28px;
+    }
+    .fa3
+    {
+        font-size: 32px !important;
+        position: relative;
+        right: 29px;
+    }
+    .fa4
+    {
+        font-size: 32px !important;
+        position: relative;
+        right: 23px;
+    }
+    .fa5, .fa6, .fa7, .fa8
+    {
+        font-size: 32px !important;
+        position: relative;
+        right: 24px;
+    }
+    .sidemenuname {
+        display: none;
+    }
+}
+@media only screen and  (max-width:1500px) and (min-width:1250px)
+{
+.main-contant, .heading
+{
+    width:95%;
+}
+}
+@media only screen and  (max-width:1249px) and (min-width:990px)
+{
+.main-contant, .heading
+{
+    width:93%;
+}
+}
+@media only screen and  (max-width:989px) and (min-width:680px)
+{
+.main-contant, .heading
+{
+    width:90%;
+}
+}
+@media only screen and  (max-width:450px) and (min-width:320px)
+{
+.main-contant, .heading
+{
+    width:80%;
+}
+}
+
+@media only screen and  (max-width:450px) and (min-width:320px)
+{
+.article1-1, .article1-2, .article1-3, .article1-4
+{
+    width: 82%;
+    margin-bottom: 10px;
+}
+}
+
+@media only screen and  (max-width:668px) and (min-width:451px)
+{
+.article1-1, .article1-2, .article1-3, .article1-4
+{
+    width: 88%;
+    margin-bottom: 10px;
+}
+}
+@media only screen and  (max-width:984px) and (min-width:669px)
+{
+.article1-1, .article1-2, .article1-3, .article1-4
+{
+    width: 44%;
+    margin-bottom: 10px;
+}
+}
+@media only screen and  (max-width:1193px) and (min-width:985px)
+{
+.article1-1, .article1-2, .article1-3, .article1-4
+{
+    width: 46%;
+    margin-bottom: 10px;
+}
+}
